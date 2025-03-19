@@ -10,10 +10,8 @@ Dokumentasi
 ---
 Alur Program
 ---
-
 1. Tampilan Awal
 ---
-
 Saat aplikasi dijalankan, pengguna akan melihat tampilan utama yang berisi:
 - Form input untuk mengisi NIM, Nama, Jenis Kelamin, dan Fakultas.
 - Tabel daftar mahasiswa yang menampilkan data mahasiswa yang sudah ada.

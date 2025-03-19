@@ -63,3 +63,13 @@ Penambahan Atribut Baru (Fakultas)
 - Input untuk atribut Fakultas menggunakan ComboBox (JComboBox).
 - Pilihan Fakultas yang tersedia di ComboBox: "FMIPA", "FPTK", "FPIPS", "FPBS", "FPSD", "FPEB", "FPOK"
 
+---
+Penambahan Konfirmasi Sebelum Menghapus Data (Delete)
+---
+1. Saat pengguna menekan tombol "Delete", akan muncul kotak dialog konfirmasi dengan pesan: "Apakah Anda yakin ingin menghapus data mahasiswa dengan NIM: [NIM]?"
+2. Pengguna diberi dua pilihan:
+- "Yes" → Data akan dihapus dari daftar dan tabel diperbarui.
+- "No" → Penghapusan dibatalkan, data tetap ada di tabel.
+3. Jika pengguna memilih "Yes", data akan dihapus dari listMahasiswa dan tabel akan diperbarui.
+4. Setelah penghapusan, form input dikosongkan dan muncul notifikasi: "Data berhasil dihapus!"
+

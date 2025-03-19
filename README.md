@@ -1,21 +1,24 @@
 Janji
 ---
 Saya Ririn Marchelina dengan NIM 2303662 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
----
 
+---
 Dokumentasi
 ---
 ![image](https://github.com/user-attachments/assets/1d420077-5fc0-46bd-aaf2-6a2b21485bd5)
----
 
+---
 Alur Program
 ---
+
 1. Tampilan Awal
 ---
+
 Saat aplikasi dijalankan, pengguna akan melihat tampilan utama yang berisi:
 - Form input untuk mengisi NIM, Nama, Jenis Kelamin, dan Fakultas.
 - Tabel daftar mahasiswa yang menampilkan data mahasiswa yang sudah ada.
 ---
+
 Tombol-tombol interaksi:
 - Add (atau Update jika memilih data).
 - Delete (tersembunyi hingga data dipilih).

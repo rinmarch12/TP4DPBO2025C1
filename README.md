@@ -50,3 +50,16 @@ Tombol-tombol interaksi:
 - Jika pengguna ingin membatalkan atau mengosongkan form, tombol Cancel bisa ditekan.
 - Semua input akan dikosongkan, tombol Update kembali menjadi Add, dan tombol Delete disembunyikan.
 
+---
+Penambahan Atribut Baru (Fakultas)
+---
+1. Atribut Fakultas ditambahkan sebagai kolom ke-5 dalam tabel mahasiswa, struktur tabel sekarang menjadi:
+- No
+- NIM
+- Nama
+- Jenis Kelamin
+- Fakultas (Kolom baru yang ditambahkan).
+2. Komponen Input untuk Fakultas
+- Input untuk atribut Fakultas menggunakan ComboBox (JComboBox).
+- Pilihan Fakultas yang tersedia di ComboBox: "FMIPA", "FPTK", "FPIPS", "FPBS", "FPSD", "FPEB", "FPOK"
+
